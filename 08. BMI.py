@@ -7,6 +7,6 @@ mass = kg
 height = float(input("Set ur height: "))
 mass =float(input("Set ur mass in kg: "))
 
-BMI = (mass) / height
+BMI = (mass) / height ** 2
 
 print("Your BMI is: ", (BMI))
