@@ -1,4 +1,5 @@
 # Write code below 💖
+
 print("SSSSS")
 print("S"    )
 print("S"    )
